@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GravityJumping",
+			"Path": "E:\\APLIKACJE\\GRY_UE5\\pierwsza\\GravityJumping\\Source\\GravityJumping.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GravityJumpingEditor",
+			"Path": "E:\\APLIKACJE\\GRY_UE5\\pierwsza\\GravityJumping\\Source\\GravityJumpingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

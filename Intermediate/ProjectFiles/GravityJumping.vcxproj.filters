@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GravityJumping.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0586A234-7566-4800-B5EE-E6638CE2AA92}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GravityJumping.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GravityJumpingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9FA17715-E43F-4EAF-939E-E7BABD9B03FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GravityJumping">
+      <UniqueIdentifier>{60A6C1F0-D9DC-4D00-BE2E-452BDAD9FC43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GravityJumping\GravityJumping.Build.cs">
+      <Filter>Source\GravityJumping</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GravityJumping\GravityJumping.cpp">
+      <Filter>Source\GravityJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityJumping\GravityJumping.h">
+      <Filter>Source\GravityJumping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityJumping\GravityJumpingCharacter.cpp">
+      <Filter>Source\GravityJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityJumping\GravityJumpingCharacter.h">
+      <Filter>Source\GravityJumping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityJumping\GravityJumpingGameMode.cpp">
+      <Filter>Source\GravityJumping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityJumping\GravityJumpingGameMode.h">
+      <Filter>Source\GravityJumping</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

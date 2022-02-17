@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\APLIKACJE\\GRY_UE5\\pierwsza\\GravityJumping\\Source\\GravityJumping\\GravityJumping.Build.cs",
+		"E:\\APLIKACJE\\GRY_UE5\\pierwsza\\GravityJumping\\Source\\GravityJumping.Target.cs",
+		"E:\\APLIKACJE\\GRY_UE5\\pierwsza\\GravityJumping\\Source\\GravityJumpingEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

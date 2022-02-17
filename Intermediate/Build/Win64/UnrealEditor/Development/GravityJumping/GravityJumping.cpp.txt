@@ -1,0 +1,2 @@
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Intermediate\Build\Win64\UnrealEditor\Development\GravityJumping\Definitions.GravityJumping.h
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Source\GravityJumping\GravityJumping.h

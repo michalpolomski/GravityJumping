@@ -1,0 +1,9 @@
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Intermediate\Build\Win64\UnrealEditor\Development\GravityJumping\Definitions.GravityJumping.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Source\GravityJumping/GravityJumpingGameMode.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Intermediate\Build\Win64\UnrealEditor\Inc\GravityJumping\GravityJumpingGameMode.generated.h

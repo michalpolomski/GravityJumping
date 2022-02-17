@@ -1,0 +1,3 @@
+E:\APLIKACJE\GRY_UE5\pierwsza\GravityJumping\Intermediate\Build\Win64\UnrealEditor\Development\GravityJumping\Definitions.GravityJumping.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\PROGRAMY\7_UE5\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
